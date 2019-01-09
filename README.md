@@ -3,7 +3,7 @@
 `sudo apt-get install salt-api; sudo apt-get install salt-cloud; sudo apt-get install salt-master;
 sudo apt-get install salt-ssh; sudo apt-get install salt-syndic`
 
-2. On the proxy minion, install the following packages:
+2. On the proxy minion, install the following packages:  
 `sudo apt-get install salt-api; sudo apt-get install salt-cloud; sudo apt-get install salt-minion;
 sudo apt-get install salt-ssh; sudo apt-get install salt-syndic; sudo apt-get install salt-proxy`
 
